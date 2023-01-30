@@ -1,4 +1,4 @@
-module pruebago.com/go/rest/ws
+module pruebago.com/go/rest-ws
 
 go 1.19
 
